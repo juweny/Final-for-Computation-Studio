@@ -1,0 +1,65 @@
+
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,section, article, aside, header, footer, nav, dialog, figure,menu,hgroup,iframe{ margin:0; padding:0; border:0; }
+body{ font-family:Arial,"PingFang SC", "Microsoft YaHei", "微软雅黑"; font-size:12px; line-height:24px; background:#fff;  color:#333; }
+input,textarea{ resize:none; font-family:Arial,"PingFang SC", "Microsoft YaHei";}
+input{border:none;}
+img{ border:none;}
+ul,li{ list-style:none;}
+a{text-decoration:none; outline:none; color:#333; }
+a:hover{ color:#266dab;}
+
+.fl{float: left;}
+.fr{float: right;}
+.cl{clear: both;}
+.logo{ line-height:500px;font-size: 60px; margin-left:158px; font-weight:100; text-transform:uppercase; color: #fff; }
+.header{ background: #FE6754; width: 100%; height: 500px; background-image: url(../images/Artboard%20%E2%80%93%201@2x.png) ; background-repeat:no-repeat;
+background-size: auto; background-position: 30% 0; }
+.header_con{ width: 900px; margin:0 auto;}
+
+
+.sign_in{width: 250px; margin-top: 80px; }
+.sign_in h1{ font-size: 18px;line-height: 26px;color: #fff;font-weight: normal;}
+.sign_in li{ margin-top:20px;}
+.sign_in li .text{ width:230px;height: 36px; padding: 0 12px;  }
+.sign_in li .btn{ width: 100%; height: 36px; background: #FFD880; color: #333;font-size: 14px;cursor: pointer;}
+.sign_in li .btn:hover{background:#6aabe4;}
+.sign_in dl{ margin-top:20px; overflow:hidden;}
+.sign_in dt{ float:left; color:#fff;}
+.sign_in dt label{ cursor:pointer;}
+.sign_in dt input{ margin-right:5px; vertical-align:-2px;}
+.sign_in dd{ float:right;}
+.sign_in a{ color:#fff;}
+.sign_in a:hover{ text-decoration:underline;}
+.sign_in .wechat{ display: block; line-height: 24px;font-size: 12px; text-align: center; color: #fff; margin-bottom: 10px; clear:both; margin:15px auto 20px auto;}
+.sign_in .wechat i{ margin-left: 5px; display: inline-block; height: 18px; width: 24px; background: url(../images/icons.png) no-repeat;  vertical-align: -5px;}
+.sign_in .gg,.sign_in .register{ display: block; width: 115px;height: 36px;border: 1px solid #9abbd7; color: #fff;text-align: center;line-height:36px;}
+.sign_in .gg:hover,.sign_in .register:hover{ background: #fff; text-decoration:none; color:#333; border:1px solid #fff; }
+
+.main{ width:700px;margin: 0 auto;}
+.main h2{font-size:22px;color: #333; margin:36px 0 26px 0;text-align: center;}
+.main .top li{ float: left;width:50px; height:50px; margin:10px; }
+
+.show { height: auto; margin:80px auto; align-items: center;}
+
+.main .bottom{ width:680px; margin:90px auto;}
+.main dl{ clear:both; overflow: hidden;margin-bottom: 20px;}
+.main dt{ width: 50px; float:left;}
+.main dd{ width:600px; border-bottom: 1px solid #eeeeee; float:right; padding-bottom:20px;}
+.main dd h3 a{ font-size: 16px;  margin: 12px 0;}
+.main dd p{ color: #555; margin:5px 0 12px 0; }
+.main dd ul li { float: left; margin-right: 24px; color: #666;}
+.main dd ul li a{ color: #666; }
+.main dd ul li a:hover{ color: #266dab; }
+.main dd ul li span{ background: #eff6fa; display:inline-block; padding:0 8px;}
+.main dd ul li i{ display: inline-block; height: 16px;width: 16px; background: url(../images/icons.png) no-repeat; vertical-align: -3px; margin-right: 6px;}
+.main dd ul li i.icon2{  background-position: -24px 0;}
+.main dd ul li i.icon3{ background-position: -40px 0; }
+.main dl.last dd{ border:0;}
+ 
+
+.footer{ width:100%;   border-top:1px solid #ddd; text-align:center; margin-top:48px; clear:both; padding:0;}
+.footer a{ color:white; display:inline-block; height:52px; line-height:12px;  }
+.footer p{ margin-top:10px;}
+.footer span{ width:1px; background:#eee; height:10px; display:inline-block; margin:0 10px; vertical-align:-1px;}
+
+.end {background: #212121; width: 100%; height: 100%;}
